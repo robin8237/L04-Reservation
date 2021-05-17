@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="name">Enter your Name</string>
+    <string name="phone">Enter your phone number</string>
+    <string name="size">No. of people</string>
+    <string name="smoking">Smoking</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+</resources>
